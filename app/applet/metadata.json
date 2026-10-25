@@ -1,0 +1,6 @@
+{
+  "name": "GhostTrace AI — Enterprise Data Deletion Intelligence Platform",
+  "description": "Evidence-driven deletion assurance across every system, identity, and data flow. Audits residual PII, resolves historical identities, discovers sync/restore risks, and generates verified remediation plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
